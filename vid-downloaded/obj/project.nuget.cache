@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7x8yFxpUaqi4618XVADIAXuFeyocNS1y5N/RSRXbVIp1vxN6kM04bxSZUGtFzm+Yuy+B87gLL/ZWp/SxufQKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasty michael\\source\\repos\\vid-downloaded\\vid-downloaded\\vid-downloaded.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasty michael\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\nasty michael\\.nuget\\packages\\sheller\\6.0.1\\sheller.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

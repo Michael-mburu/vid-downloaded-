@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "vid-downloaded/1.0.0": {
+        "dependencies": {
+          "CommandLineParser": "2.8.0",
+          "Sheller": "6.0.1"
+        },
+        "runtime": {
+          "vid-downloaded.dll": {}
+        }
+      },
+      "CommandLineParser/2.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/CommandLine.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      },
+      "Sheller/6.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Sheller.dll": {
+            "assemblyVersion": "6.0.1.0",
+            "fileVersion": "6.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vid-downloaded/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLineParser/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eco2HlKQBY4Joz9odHigzGpVzv6pjsXnY5lziioMveQxr+i2Z7xYcIOMeZTgYiqnMtMAbXMXsVhrNfWO5vJS8Q==",
+      "path": "commandlineparser/2.8.0",
+      "hashPath": "commandlineparser.2.8.0.nupkg.sha512"
+    },
+    "Sheller/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vs6Hhswlye2/3rqaDKk/bzokBLtu1Elm5ts4d5mq+QlKq++79FP5AEUnGIhqjxLampaMYy1mk4M7cM8Iihow4g==",
+      "path": "sheller/6.0.1",
+      "hashPath": "sheller.6.0.1.nupkg.sha512"
+    }
+  }
+}

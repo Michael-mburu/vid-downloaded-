@@ -1,0 +1,16 @@
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.csproj.AssemblyReference.cache
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.AssemblyInfoInputs.cache
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.AssemblyInfo.cs
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.csproj.CoreCompileInputs.cache
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\vid-downloaded.exe
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\vid-downloaded.deps.json
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\vid-downloaded.runtimeconfig.json
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\vid-downloaded.runtimeconfig.dev.json
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\vid-downloaded.dll
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\vid-downloaded.pdb
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.dll
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.pdb
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.genruntimeconfig.cache
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\bin\Debug\netcoreapp3.1\Sheller.dll
+C:\Users\nasty michael\source\repos\vid-downloaded\vid-downloaded\obj\Debug\netcoreapp3.1\vid-downloaded.csproj.CopyComplete
